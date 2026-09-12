@@ -45,3 +45,46 @@ Each pattern is implemented as an independent example containing:
 * xUnit
 * FluentAssertions
 
+
+dotnet-design-patterns/
+│
+├── README.md
+│
+├── solid/
+│   ├── single-responsibility/
+│   ├── open-closed/
+│   ├── liskov-substitution/
+│   ├── interface-segregation/
+│   └── dependency-inversion/
+│
+├── creational/
+│   ├── builder/
+│   ├── factory-method/
+│   ├── abstract-factory/
+│   ├── prototype/
+│   └── singleton/
+│
+├── structural/
+│   ├── adapter/
+│   ├── bridge/
+│   ├── composite/
+│   ├── decorator/
+│   ├── facade/
+│   ├── flyweight/
+│   └── proxy/
+│
+├── behavioral/
+│   ├── chain-of-responsibility/
+│   ├── command/
+│   ├── interpreter/
+│   ├── iterator/
+│   ├── mediator/
+│   ├── memento/
+│   ├── observer/
+│   ├── state/
+│   ├── strategy/
+│   ├── template-method/
+│   └── visitor/
+│
+└── additional/
+    └── null-object/
